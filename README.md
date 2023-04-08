@@ -3,17 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vusalaxndzde&label=Profile%20views&color=0e75b6&style=flat" alt="vusalaxndzde" /> </p>
 
-- 🌱 I’m currently learning **Spring, JavaScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/vusalaxndzde](https://github.com/vusalaxndzde)
-
-- 📝 I regularly write articles on [https://medium.com/@vusalaxndzde](https://medium.com/@vusalaxndzde)
-
-- 💬 Ask me about **Java, Spring**
-
-- 📫 How to reach me **vusal.axndzde@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xiGr7M63Scpu87f72nBzzXg5L_GC05Eu/view?usp=sharing](https://drive.google.com/file/d/1xiGr7M63Scpu87f72nBzzXg5L_GC05Eu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
