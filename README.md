@@ -20,7 +20,7 @@
 
 <div align="left">
   <a href="https://open.spotify.com/user/31eavpclqntynlv4fiejbaoszgqm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=1" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eavpclqntynlv4fiejbaoszgqm&count=1" alt="Spotify recently played"  />
   </a>
 </div>
 
