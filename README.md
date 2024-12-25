@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vusalaxndzde" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="60" /></a>
+<a href="https://linkedin.com/in/vusalaxndzde" target="_top"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="60" /></a>
 <a href="https://instagram.com/vusalstn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="vusalstn" height="50" width="60" /></a>
 <a href="https://twitter.com/vusalstn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="vusalstn" height="50" width="60" /></a>
 <a href="https://medium.com/@vusalaxndzde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vusalaxndzde" height="50" width="60" /></a>
